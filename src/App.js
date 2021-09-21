@@ -1,13 +1,10 @@
 import * as React from 'react';
 import Box from '@mui/material/Box';
 import { makeStyles } from '@material-ui/styles';
-import PropTypes from "prop-types";
 import Paper from '@mui/material/Paper';
 import Typography from '@mui/material/Typography';
 import Tabs from 'react-bootstrap/Tabs';
 import Tab from 'react-bootstrap/Tab';
-import TabContainer from 'react-bootstrap/TabContainer';
-import TabContent from 'react-bootstrap/TabContent';
 import Nav from 'react-bootstrap/Nav'
 import Row from 'react-bootstrap/Row'
 import Col from 'react-bootstrap/Col'
